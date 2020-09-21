@@ -1,2 +1,3 @@
 # CV-Resume
 This is a repository for the update of my CV. The HTML code allows it to be seen via a link: https://cankinik.github.io/CV-Resume/
+In order to update, delete old PDF, upload new PDF, then on the HTML code, change the part after the url=   with the download link to the new PDF up to &embedded...
